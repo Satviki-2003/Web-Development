@@ -1,0 +1,19 @@
+h1,h2
+{
+    color: red;
+}
+
+.list>.done
+{
+    color: blue;
+}
+
+.box p.done
+{
+    font-size: 30px;
+}
+
+ul p.done
+{
+    color: brown;
+}
